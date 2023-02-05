@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/02_React_Igor_Lesson/static/css/main.6b57e93a.css",
-    "main.js": "/02_React_Igor_Lesson/static/js/main.07d3183d.js",
+    "main.css": "/02_React_Igor_Lesson/static/css/main.a06c11d2.css",
+    "main.js": "/02_React_Igor_Lesson/static/js/main.0922c699.js",
     "index.html": "/02_React_Igor_Lesson/index.html",
-    "main.6b57e93a.css.map": "/02_React_Igor_Lesson/static/css/main.6b57e93a.css.map",
-    "main.07d3183d.js.map": "/02_React_Igor_Lesson/static/js/main.07d3183d.js.map"
+    "static/media/icon.svg": "/02_React_Igor_Lesson/static/media/icon.8c941fe2fb53bbba1ea964f325b75fd2.svg",
+    "static/media/icon02.svg": "/02_React_Igor_Lesson/static/media/icon02.c3f782be82852d2b107c119b2df3c072.svg",
+    "main.a06c11d2.css.map": "/02_React_Igor_Lesson/static/css/main.a06c11d2.css.map",
+    "main.0922c699.js.map": "/02_React_Igor_Lesson/static/js/main.0922c699.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b57e93a.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.a06c11d2.css",
+    "static/js/main.0922c699.js"
   ]
 }
