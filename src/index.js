@@ -12,4 +12,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 
 // This is installed
+//Это библиотека для работы со стилями
 // npm install --save styled-components
+// Подключили Bootstrap при помощи ссылкли в head
