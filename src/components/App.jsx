@@ -1,16 +1,25 @@
+
+
+import { Layout } from './Layout/Layout';
+import { Product } from './Product/Product';
+import { Header } from './Layout/Header/Header';
+import { Counter } from './Counter/Counter';
+
+// const Header = styled.h1`
+//      color: ${({colorWhite})=>(colorWhite?'red':'#999')};
+
+// `;
+
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <Layout>
+    
+  <Header title="Hello React!" />
+      
+      <Product />
+      <Counter />
+    
+    </Layout>     
   );
 };
