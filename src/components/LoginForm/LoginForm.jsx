@@ -40,9 +40,13 @@ export class LoginForm extends Component {
     const { email, password } = this.state;
 
     return (
-        <form className="w-25" style={{
+      <form
+        // className="w-25"
+        style={{
             backgroundColor: 'gray',
             padding: '15px',
+            margin: '0 0 35px',
+            width: '300px',
            
         }} 
         onSubmit={this.handleSubmit}>
